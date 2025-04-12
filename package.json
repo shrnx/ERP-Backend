@@ -1,0 +1,17 @@
+{
+  "name": "erp_backend",
+  "version": "1.0.0",
+  "description": "ERP Backend",
+  "keywords": [
+    "erp",
+    "backend",
+    "shrnx"
+  ],
+  "license": "ISC",
+  "author": "Gurusharan Sahu",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
